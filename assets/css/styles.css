@@ -1,0 +1,12 @@
+:root{
+    --couleur-background: #282c34;
+    --couleur-texte:#e3e7ed;
+    --couleur-texte-bleu:#169fe3;
+    --couleur-background-bouton:#3c3f49;
+    --couleur-background-bouton-select: rgba(22,159,227,0.7);
+    --couleur-background-bouton-hover: #3794c3;
+}
+
+header{
+    background-image: url("../image/entete_opaque.png");
+}
