@@ -7,6 +7,11 @@
     --couleur-background-bouton-hover: #3794c3;
 }
 
+@font-face {
+    font-family: Maximum-Impact;
+    src: url(../webfonts/Maximum-Impact.ttf);
+}
+
 header{
     background-image: url("../image/entete_opaque.png");
 }
